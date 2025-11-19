@@ -7,6 +7,8 @@ This repository contains resources and links to our Udemy courses, focusing on *
 ## Course Overview:
 We provide **professional-level training** in DevSecOps, covering tools and practices used in the industry to secure your applications and infrastructure while embracing DevOps practices.
 
+updating 
+
 
 ---
 
